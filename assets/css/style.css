@@ -1,0 +1,48 @@
+#header {
+	background-color: rgb(110, 0, 110);
+	color: #d6d3d3;
+    text-align: center;
+    font-family: 'Wendy One', sans-serif;
+    
+}
+
+body {
+    color: #d6d3d3;
+    background-color: black;
+}
+
+#leftImage {
+	width: 15%;
+	float: left;
+	margin-left: 20px;
+}
+
+#rightImage {
+	width: 15%;
+	float: right;
+	margin-right: 20px;
+}
+
+label {
+    font-size: 25px;
+    margin: 5px;
+}
+
+#timBurton {
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#gifSearch {
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+#gifDisplay {
+	clear: both;
+	display: inline;
+	flex-wrap: wrap;
+}

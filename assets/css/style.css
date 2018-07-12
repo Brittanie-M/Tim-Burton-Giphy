@@ -28,13 +28,6 @@ label {
     margin: 5px;
 }
 
-#timBurton {
-	margin-right: 5px;
-	margin-left: 5px;
-	margin-top: 5px;
-	margin-bottom: 5px;
-}
-
 #gifSearch {
     margin: 0 auto;
     text-align: center;
@@ -45,4 +38,5 @@ label {
 	clear: both;
 	display: inline;
 	flex-wrap: wrap;
+	
 }
